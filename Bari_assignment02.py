@@ -421,7 +421,7 @@ def refine_data_and_make_graphs(
             '1990',
             '2020'),
         country_name[0],
-        'cool')
+        'Accent')
     country_name = [cols[-5], 'Years']
     get_data_for_one_country(
         dataframes,
